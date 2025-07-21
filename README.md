@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-dabeer&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Dabeer-23&style=flat-square" alt="Profile views" />
   <img alt="Stars" src="https://img.shields.io/github/stars/Muhammad-Dabeer-23?style=social">
   <img alt="Followers" src="https://img.shields.io/github/followers/Muhammad-Dabeer-23?style=social">
 </p>
@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Dabeer-23&show_icons=true&theme=github_dark" alt="Dabeer's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Muhammad-Dabeer-23&show_icons=true&theme=github_dark" alt="Dabeer's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Dabeer-23&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
