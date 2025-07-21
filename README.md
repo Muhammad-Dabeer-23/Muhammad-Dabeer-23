@@ -42,10 +42,9 @@
 
 <p align="center">
   
-  <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-dabeer-23&theme=react&border=61dafb&hide_border=true" alt="Dabeer's Github Stats" />
+<img align="center" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammad-dabeer-23&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
 
-  <br/>
-        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=muhammad-dabeer-23&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+
 </p>
 
 ---
