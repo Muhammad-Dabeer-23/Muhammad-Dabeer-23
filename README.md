@@ -41,9 +41,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=muhammad-dabeer-23&show_icons=true&theme=github_dark" alt="Dabeer's GitHub Stats"/>
+  
+  <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-dabeer-23&theme=react&border=61dafb&hide_border=true" alt="Dabeer's Github Stats" />
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-dabeer-23&layout=compact&theme=github_dark" alt="Top Languages"/>
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=muhammad-dabeer-23&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </p>
 
 ---
